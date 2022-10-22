@@ -1,1 +1,2 @@
-# The default keymap for Redox
+# mdlc96 first custom redox keymap  
+               
