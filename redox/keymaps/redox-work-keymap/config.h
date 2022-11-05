@@ -45,3 +45,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #undef MOUSEKEY_BASE_SPEED
 #define MOUSEKEY_BASE_SPEED 2000
+
+// double left shift activate caps word.
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+
+#define CAPS_WORD_IDLE_TIMEOUT 3000  // 3 seconds.
